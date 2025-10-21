@@ -1,0 +1,20 @@
+{
+    "active": [],
+    "inactive": [
+        {
+            "name": "hector",
+            "times_picked": 23,
+            "picked_this_instance": 23
+        },
+        {
+            "name": "henry",
+            "times_picked": 23,
+            "picked_this_instance": 23
+        },
+        {
+            "name": "ed",
+            "times_picked": 28,
+            "picked_this_instance": 28
+        }
+    ]
+}
